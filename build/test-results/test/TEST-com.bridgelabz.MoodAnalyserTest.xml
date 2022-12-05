@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.MoodAnalyserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-05T15:46:53" hostname="SAIKAT" time="0.015">
+  <properties/>
+  <testcase name="testMoodAnalysis()" classname="com.bridgelabz.MoodAnalyserTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
